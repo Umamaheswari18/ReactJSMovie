@@ -1,0 +1,106 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+p{
+  font-size: 16px;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#searchBox
+{
+  margin-bottom:20px;
+  margin-top:20px;
+}
+
+
+img#imagePoster
+{
+  width:270;
+  height:399
+
+}
+.navbar{
+	background: #233237;
+}
+
+.navbar-toggle{
+	background-color: #CCCCCC;
+}
+
+.icon-bar{
+	border-width: thick;
+}
+
+.navbar-brand
+{
+	padding-left: 100px;
+	padding-top: 20px;
+	font-size: 20px;
+	font-family: cursive;
+	text-transform: uppercase;
+}
+
+.navbar ul li Link{
+	color:#eee;
+	font-weight: bold;
+	font-size:18px;
+	font-family:Arial;
+	padding-top: 20px;
+  padding-right: 20px;
+}
+
+
+
+.navbar ul li Link:hover{
+	color:red;
+	font-weight: bold;
+	font-family:Arial;
+	font-size:18px;
+	padding-top: 20px;
+}
+
+.btn{
+	height: auto;
+	width:auto;
+}
+
+
+#movieThing
+{
+  padding:20px;
+  margin:20px;
+  border:2px solid #000099;
+  border-radius: 25px;
+  background: #80e5ff;
+
+}
+
+body{
+  background-color: #CCCCCC;
+}
+
+#addMovie label{
+  font-size: 16px;
+}
+
+#addMovie
+{
+  margin: 50px;
+  background-color: #e4b4e4;
+  border:2px solid rgba(117,41,117,1);
+  border-radius: 35px;
+  padding: 50px;
+  box-shadow: 10px -8px 12px -1px rgba(117,41,117,1);
+}
+
+
+
+#homeBox
+{
+  margin-top: 100px;
+  }
